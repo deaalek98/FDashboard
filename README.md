@@ -26,9 +26,9 @@ A control panel for Flutter developers, so that they can easily manage their pro
 
 To run this project, you will need to add the following environment variables to setting page
 
-`API_KEY`
+`user-tokens` for slack [link](https://api.slack.com/authentication/token-types)
 
-`ANOTHER_API_KEY`
+`path-basic` in terminal [link](https://raw.githubusercontent.com/deaalek98/FDashboard/main/assets/images/terminal.png)
 
 
 ## Screenshots
