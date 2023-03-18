@@ -1,4 +1,4 @@
-# Dashboard
+# FDashboard
 
 A control panel for Flutter developers, so that they can easily manage their projects
 
@@ -14,47 +14,34 @@ A control panel for Flutter developers, so that they can easily manage their pro
 - Upload the APP to Google Play and Apple Store (Coming soon)
 
 
-## Feedback
-
-If you have any feedback, please reach out to us at deaa.lek98@gmail.com
 
 
-## Run the project
+## Installation
 **System:** macOS
 
-Go to the project directory
+[Install app](https://github.com/deaalek98/FDashboard/raw/main/assets/app/fdashboard.dmg)
 
-```bash
-  cd project
-```
 
-Clean the project
-```bash
-  flutter clean
-```
+## Environment Variables
 
-Install dependencies
+To run this project, you will need to add the following environment variables to setting page
 
-```bash
-  flutter pub get
-```
+`API_KEY`
 
-Start the app
-
-```bash
-  flutter run -d  macOS
-```
-
+`ANOTHER_API_KEY`
 
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/deaalek98/Dashboard/main/assets/images/Screenshot1.png)
+![App Screenshot](https://raw.githubusercontent.com/deaalek98/FDashboard/main/assets/images/Screenshot1.png)
 
-![App Screenshot](https://raw.githubusercontent.com/deaalek98/Dashboard/main/assets/images/Screenshot22.png)
+![App Screenshot](https://raw.githubusercontent.com/deaalek98/FDashboard/main/assets/images/Screenshot22.png)
 
-![App Screenshot](https://raw.githubusercontent.com/deaalek98/Dashboard/main/assets/images/Screenshot3.png)
+![App Screenshot](https://raw.githubusercontent.com/deaalek98/FDashboard/main/assets/images/Screenshot3.png)
 
-![App Screenshot](https://raw.githubusercontent.com/deaalek98/Dashboard/main/assets/images/Screenshot4.png)
+![App Screenshot](https://raw.githubusercontent.com/deaalek98/FDashboard/main/assets/images/Screenshot4.png)
 
 
+## Feedback
+
+If you have any feedback, please reach out to us at deaa.lek98@gmail.com
